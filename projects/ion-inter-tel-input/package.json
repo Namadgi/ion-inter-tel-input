@@ -1,0 +1,15 @@
+{
+  "name": "ion-inter-tel-input",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@ionic/angular": "^7.4.3",
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0",
+    "google-libphonenumber": "^3.2.33",
+    "ionic-selectable": "^5.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
